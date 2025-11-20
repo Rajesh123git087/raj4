@@ -2,4 +2,3 @@
 pro.4
 virat
 kohli
-roko
